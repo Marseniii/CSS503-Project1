@@ -1,0 +1,4 @@
+import { m as module_default } from './alpinejs-6ca8fdbe.js';
+
+module_default.start();
+//# sourceMappingURL=alpinejs-c39f3d1b.js.map
